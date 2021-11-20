@@ -23,6 +23,7 @@ class Sample1
 
         for(int i=0; i<1000; i++){
             System.out.println("main()‚Ìˆ—‚ð‚µ‚Ä‚¢‚Ü‚·B");
+        	System.out.println("git");
         }
     }
 }
