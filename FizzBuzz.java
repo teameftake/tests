@@ -18,6 +18,5 @@ class FizzBuzz
 			}
 		}
 		System.out.print("");
-		System.out.print("git");
 	}
 }
